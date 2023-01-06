@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class RMTabBarViewController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -15,6 +15,6 @@ class ViewController: UIViewController {
         view.backgroundColor = .red
     }
 
-
+    
 }
 
